@@ -21,7 +21,7 @@
 <tr>
 <td align="center" width="230">
 
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/khaoula-A/khaoula-A/master/assets/photo.png&w=220&h=220&fit=cover&mask=circle" width="190" alt="Rhomad Khaoula" />
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/Rhomad-Khaoula/Rhomad-Khaoula/master/assets/photo.png&w=220&h=220&fit=cover&mask=circle" width="190" alt="Rhomad Khaoula" />
 
 </td>
 <td>
@@ -165,24 +165,24 @@ Prétraitement des données, entraînement, évaluation et test d'un modèle sur
 
 ## 📊 Statistiques GitHub
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=khaoula-A&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=36BCF7&icon_color=A855F7&text_color=c9d1d9&border_radius=14" />
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaoula-A&layout=compact&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9&border_radius=14" />
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=Rhomad-Khaoula&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=36BCF7&icon_color=A855F7&text_color=c9d1d9&border_radius=14" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhomad-Khaoula&layout=compact&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9&border_radius=14" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=khaoula-A&hide_border=true&background=0d1117&stroke=A855F7&ring=36BCF7&fire=F472B6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=36BCF7&sideLabels=9fb3c8&dates=9fb3c8&border_radius=14" />
+<img src="https://streak-stats.demolab.com?user=Rhomad-Khaoula&hide_border=true&background=0d1117&stroke=A855F7&ring=36BCF7&fire=F472B6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=36BCF7&sideLabels=9fb3c8&dates=9fb3c8&border_radius=14" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=khaoula-A&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rhomad-Khaoula&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khaoula-A&bg_color=0d1117&color=36BCF7&line=A855F7&point=F472B6&area_color=A855F7&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rhomad-Khaoula&bg_color=0d1117&color=36BCF7&line=A855F7&point=F472B6&area_color=A855F7&area=true&hide_border=true" width="100%" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/khaoula-A/khaoula-A/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rhomad-Khaoula/Rhomad-Khaoula/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
 
 <img src="assets/divider.svg" width="100%" />
 
@@ -197,7 +197,7 @@ Prétraitement des données, entraînement, évaluation et test d'un modèle sur
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-rhomad-khaoula.netlify.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhomadkhawla@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=khaoula-A&label=Visiteurs&color=1f6feb&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Rhomad-Khaoula&label=Visiteurs&color=1f6feb&style=flat-square" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 
