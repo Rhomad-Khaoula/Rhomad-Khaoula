@@ -21,7 +21,7 @@
 <tr>
 <td align="center" width="230">
 
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/khaoula-A/khaoula-A/master/assets/photo.jpg&w=220&h=220&fit=cover&mask=circle" width="190" alt="Rhomad Khaoula" />
+<img src="assets/photo.png" width="190" alt="Rhomad Khaoula" />
 
 </td>
 <td>
